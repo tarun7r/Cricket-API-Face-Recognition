@@ -8,7 +8,7 @@ Follow the following instructions to run the application and start using the api
   `$ pip install -r requirements.txt` </li>
 <li>Use the scrape_photos.py script to scrape the player images and save them in a folder</li>
 <li>Use the train.py scipt to train the model to identify the player faces and train the model</li>
-<li> Type $ python main.py in the terminal and the script will run for as long as you let it. </li>
+<li> Type $ python main.py in the terminal and the script will run for as long as you let it </li>
 
 <H2>Home Page</H2>
 <ul>
